@@ -1,0 +1,9 @@
+C:\Users\Filip\Desktop\LAB6\Przeszukiwanie_grafu\Przeszukiwanie_grafu\bin\Release\Przeszukiwanie_grafu.exe.config
+C:\Users\Filip\Desktop\LAB6\Przeszukiwanie_grafu\Przeszukiwanie_grafu\bin\Release\Przeszukiwanie_grafu.exe
+C:\Users\Filip\Desktop\LAB6\Przeszukiwanie_grafu\Przeszukiwanie_grafu\bin\Release\Przeszukiwanie_grafu.pdb
+C:\Users\Filip\Desktop\LAB6\Przeszukiwanie_grafu\Przeszukiwanie_grafu\obj\Release\Przeszukiwanie_grafu.Form1.resources
+C:\Users\Filip\Desktop\LAB6\Przeszukiwanie_grafu\Przeszukiwanie_grafu\obj\Release\Przeszukiwanie_grafu.Properties.Resources.resources
+C:\Users\Filip\Desktop\LAB6\Przeszukiwanie_grafu\Przeszukiwanie_grafu\obj\Release\Przeszukiwanie_grafu.csproj.GenerateResource.Cache
+C:\Users\Filip\Desktop\LAB6\Przeszukiwanie_grafu\Przeszukiwanie_grafu\obj\Release\Przeszukiwanie_grafu.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\LAB6\Przeszukiwanie_grafu\Przeszukiwanie_grafu\obj\Release\Przeszukiwanie_grafu.exe
+C:\Users\Filip\Desktop\LAB6\Przeszukiwanie_grafu\Przeszukiwanie_grafu\obj\Release\Przeszukiwanie_grafu.pdb

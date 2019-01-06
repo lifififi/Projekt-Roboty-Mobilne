@@ -1,0 +1,58 @@
+c:\users\filip\source\repos\Przeszukiwanie_grafu\Przeszukiwanie_grafu\bin\Debug\Przeszukiwanie_grafu.exe.config
+c:\users\filip\source\repos\Przeszukiwanie_grafu\Przeszukiwanie_grafu\bin\Debug\Przeszukiwanie_grafu.exe
+c:\users\filip\source\repos\Przeszukiwanie_grafu\Przeszukiwanie_grafu\bin\Debug\Przeszukiwanie_grafu.pdb
+c:\users\filip\source\repos\Przeszukiwanie_grafu\Przeszukiwanie_grafu\obj\Debug\Przeszukiwanie_grafu.csprojResolveAssemblyReference.cache
+c:\users\filip\source\repos\Przeszukiwanie_grafu\Przeszukiwanie_grafu\obj\Debug\Przeszukiwanie_grafu.Form1.resources
+c:\users\filip\source\repos\Przeszukiwanie_grafu\Przeszukiwanie_grafu\obj\Debug\Przeszukiwanie_grafu.Properties.Resources.resources
+c:\users\filip\source\repos\Przeszukiwanie_grafu\Przeszukiwanie_grafu\obj\Debug\Przeszukiwanie_grafu.csproj.GenerateResource.Cache
+c:\users\filip\source\repos\Przeszukiwanie_grafu\Przeszukiwanie_grafu\obj\Debug\Przeszukiwanie_grafu.csproj.CoreCompileInputs.cache
+c:\users\filip\source\repos\Przeszukiwanie_grafu\Przeszukiwanie_grafu\obj\Debug\Przeszukiwanie_grafu.exe
+c:\users\filip\source\repos\Przeszukiwanie_grafu\Przeszukiwanie_grafu\obj\Debug\Przeszukiwanie_grafu.pdb
+C:\Users\JA\Documents\Visual Studio 2017\Projects\Graf nowe\Przeszukiwanie_grafu\Przeszukiwanie_grafu\bin\Debug\Przeszukiwanie_grafu.exe.config
+C:\Users\JA\Documents\Visual Studio 2017\Projects\Graf nowe\Przeszukiwanie_grafu\Przeszukiwanie_grafu\bin\Debug\Przeszukiwanie_grafu.exe
+C:\Users\JA\Documents\Visual Studio 2017\Projects\Graf nowe\Przeszukiwanie_grafu\Przeszukiwanie_grafu\bin\Debug\Przeszukiwanie_grafu.pdb
+C:\Users\JA\Documents\Visual Studio 2017\Projects\Graf nowe\Przeszukiwanie_grafu\Przeszukiwanie_grafu\obj\Debug\Przeszukiwanie_grafu.csprojResolveAssemblyReference.cache
+C:\Users\JA\Documents\Visual Studio 2017\Projects\Graf nowe\Przeszukiwanie_grafu\Przeszukiwanie_grafu\obj\Debug\Przeszukiwanie_grafu.Form1.resources
+C:\Users\JA\Documents\Visual Studio 2017\Projects\Graf nowe\Przeszukiwanie_grafu\Przeszukiwanie_grafu\obj\Debug\Przeszukiwanie_grafu.Properties.Resources.resources
+C:\Users\JA\Documents\Visual Studio 2017\Projects\Graf nowe\Przeszukiwanie_grafu\Przeszukiwanie_grafu\obj\Debug\Przeszukiwanie_grafu.csproj.GenerateResource.Cache
+C:\Users\JA\Documents\Visual Studio 2017\Projects\Graf nowe\Przeszukiwanie_grafu\Przeszukiwanie_grafu\obj\Debug\Przeszukiwanie_grafu.exe
+C:\Users\JA\Documents\Visual Studio 2017\Projects\Graf nowe\Przeszukiwanie_grafu\Przeszukiwanie_grafu\obj\Debug\Przeszukiwanie_grafu.pdb
+C:\Users\JA\Documents\Visual Studio 2017\Projects\Graf nowe\Graf nowe\Przeszukiwanie_grafu\Przeszukiwanie_grafu\bin\Debug\Przeszukiwanie_grafu.exe.config
+C:\Users\JA\Documents\Visual Studio 2017\Projects\Graf nowe\Graf nowe\Przeszukiwanie_grafu\Przeszukiwanie_grafu\bin\Debug\Przeszukiwanie_grafu.exe
+C:\Users\JA\Documents\Visual Studio 2017\Projects\Graf nowe\Graf nowe\Przeszukiwanie_grafu\Przeszukiwanie_grafu\bin\Debug\Przeszukiwanie_grafu.pdb
+C:\Users\JA\Documents\Visual Studio 2017\Projects\Graf nowe\Graf nowe\Przeszukiwanie_grafu\Przeszukiwanie_grafu\obj\Debug\Przeszukiwanie_grafu.csprojResolveAssemblyReference.cache
+C:\Users\JA\Documents\Visual Studio 2017\Projects\Graf nowe\Graf nowe\Przeszukiwanie_grafu\Przeszukiwanie_grafu\obj\Debug\Przeszukiwanie_grafu.Form1.resources
+C:\Users\JA\Documents\Visual Studio 2017\Projects\Graf nowe\Graf nowe\Przeszukiwanie_grafu\Przeszukiwanie_grafu\obj\Debug\Przeszukiwanie_grafu.Properties.Resources.resources
+C:\Users\JA\Documents\Visual Studio 2017\Projects\Graf nowe\Graf nowe\Przeszukiwanie_grafu\Przeszukiwanie_grafu\obj\Debug\Przeszukiwanie_grafu.csproj.GenerateResource.Cache
+C:\Users\JA\Documents\Visual Studio 2017\Projects\Graf nowe\Graf nowe\Przeszukiwanie_grafu\Przeszukiwanie_grafu\obj\Debug\Przeszukiwanie_grafu.exe
+C:\Users\JA\Documents\Visual Studio 2017\Projects\Graf nowe\Graf nowe\Przeszukiwanie_grafu\Przeszukiwanie_grafu\obj\Debug\Przeszukiwanie_grafu.pdb
+C:\Users\Admin\Desktop\Przeszukiwanie_grafu\Przeszukiwanie_grafu\bin\Debug\Przeszukiwanie_grafu.exe.config
+C:\Users\Admin\Desktop\Przeszukiwanie_grafu\Przeszukiwanie_grafu\bin\Debug\Przeszukiwanie_grafu.exe
+C:\Users\Admin\Desktop\Przeszukiwanie_grafu\Przeszukiwanie_grafu\bin\Debug\Przeszukiwanie_grafu.pdb
+C:\Users\Admin\Desktop\Przeszukiwanie_grafu\Przeszukiwanie_grafu\obj\Debug\Przeszukiwanie_grafu.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Przeszukiwanie_grafu\Przeszukiwanie_grafu\obj\Debug\Przeszukiwanie_grafu.Form1.resources
+C:\Users\Admin\Desktop\Przeszukiwanie_grafu\Przeszukiwanie_grafu\obj\Debug\Przeszukiwanie_grafu.Properties.Resources.resources
+C:\Users\Admin\Desktop\Przeszukiwanie_grafu\Przeszukiwanie_grafu\obj\Debug\Przeszukiwanie_grafu.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Przeszukiwanie_grafu\Przeszukiwanie_grafu\obj\Debug\Przeszukiwanie_grafu.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Przeszukiwanie_grafu\Przeszukiwanie_grafu\obj\Debug\Przeszukiwanie_grafu.exe
+C:\Users\Admin\Desktop\Przeszukiwanie_grafu\Przeszukiwanie_grafu\obj\Debug\Przeszukiwanie_grafu.pdb
+D:\Downloads\Przeszukiwanie_grafu\Przeszukiwanie_grafu\Przeszukiwanie_grafu\bin\Debug\Przeszukiwanie_grafu.exe.config
+D:\Downloads\Przeszukiwanie_grafu\Przeszukiwanie_grafu\Przeszukiwanie_grafu\bin\Debug\Przeszukiwanie_grafu.exe
+D:\Downloads\Przeszukiwanie_grafu\Przeszukiwanie_grafu\Przeszukiwanie_grafu\bin\Debug\Przeszukiwanie_grafu.pdb
+D:\Downloads\Przeszukiwanie_grafu\Przeszukiwanie_grafu\Przeszukiwanie_grafu\obj\Debug\Przeszukiwanie_grafu.csprojAssemblyReference.cache
+D:\Downloads\Przeszukiwanie_grafu\Przeszukiwanie_grafu\Przeszukiwanie_grafu\obj\Debug\Przeszukiwanie_grafu.Form1.resources
+D:\Downloads\Przeszukiwanie_grafu\Przeszukiwanie_grafu\Przeszukiwanie_grafu\obj\Debug\Przeszukiwanie_grafu.Properties.Resources.resources
+D:\Downloads\Przeszukiwanie_grafu\Przeszukiwanie_grafu\Przeszukiwanie_grafu\obj\Debug\Przeszukiwanie_grafu.csproj.GenerateResource.cache
+D:\Downloads\Przeszukiwanie_grafu\Przeszukiwanie_grafu\Przeszukiwanie_grafu\obj\Debug\Przeszukiwanie_grafu.csproj.CoreCompileInputs.cache
+D:\Downloads\Przeszukiwanie_grafu\Przeszukiwanie_grafu\Przeszukiwanie_grafu\obj\Debug\Przeszukiwanie_grafu.exe
+D:\Downloads\Przeszukiwanie_grafu\Przeszukiwanie_grafu\Przeszukiwanie_grafu\obj\Debug\Przeszukiwanie_grafu.pdb
+C:\Users\Filip\Desktop\LAB6\Przeszukiwanie_grafu\Przeszukiwanie_grafu\bin\Debug\Przeszukiwanie_grafu.exe.config
+C:\Users\Filip\Desktop\LAB6\Przeszukiwanie_grafu\Przeszukiwanie_grafu\bin\Debug\Przeszukiwanie_grafu.exe
+C:\Users\Filip\Desktop\LAB6\Przeszukiwanie_grafu\Przeszukiwanie_grafu\bin\Debug\Przeszukiwanie_grafu.pdb
+C:\Users\Filip\Desktop\LAB6\Przeszukiwanie_grafu\Przeszukiwanie_grafu\obj\Debug\Przeszukiwanie_grafu.csprojResolveAssemblyReference.cache
+C:\Users\Filip\Desktop\LAB6\Przeszukiwanie_grafu\Przeszukiwanie_grafu\obj\Debug\Przeszukiwanie_grafu.Form1.resources
+C:\Users\Filip\Desktop\LAB6\Przeszukiwanie_grafu\Przeszukiwanie_grafu\obj\Debug\Przeszukiwanie_grafu.Properties.Resources.resources
+C:\Users\Filip\Desktop\LAB6\Przeszukiwanie_grafu\Przeszukiwanie_grafu\obj\Debug\Przeszukiwanie_grafu.csproj.GenerateResource.Cache
+C:\Users\Filip\Desktop\LAB6\Przeszukiwanie_grafu\Przeszukiwanie_grafu\obj\Debug\Przeszukiwanie_grafu.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\LAB6\Przeszukiwanie_grafu\Przeszukiwanie_grafu\obj\Debug\Przeszukiwanie_grafu.exe
+C:\Users\Filip\Desktop\LAB6\Przeszukiwanie_grafu\Przeszukiwanie_grafu\obj\Debug\Przeszukiwanie_grafu.pdb
